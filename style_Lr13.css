@@ -1,0 +1,207 @@
+body{
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+}
+
+p{
+    margin: 0;
+}
+
+.page1{
+    background-color: #390C09;
+}
+
+.page1_flex{
+    display: flex;
+    justify-content: space-around;
+    padding: 4% 9%;
+}
+
+.things1{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+
+.heading{
+    background: rgba(255, 255, 255, 0.5);
+    font-size: 96px;
+    text-align: center;
+    padding: 6% 3%;
+}
+
+.text1{
+    background: rgba(255, 255, 255, 0.75);
+    font-size: 36px;
+    padding: 4% 3%;
+    margin-top: 14%;
+}
+
+.page2{
+    background-color: #390C09;
+}
+
+.page2_flex{
+    display: inline-flex;
+    padding: 5% 13.6%;
+}
+
+.text2{
+    background: #A07867;
+    font-size: 42px;
+    padding: 3%;
+    margin-left: 14%;
+}
+
+.page3{
+    background-color: #390C09;
+    padding: 4.5% 13.5%;
+}
+
+.hobbies{
+    background: rgba(255, 255, 255, 0.5);
+    font-size: 48px;
+    text-align: center;
+    padding: 1%;
+}
+
+.page3_flex{
+    display: inline-flex;
+    margin-top: 3%;
+}
+
+.text3{
+    background: rgba(255, 255, 255, 0.75);
+    font-size: 36px;
+    margin-left: 5%;
+    padding: 3% 12%;
+}
+
+.page4{
+    background-color: #390C09;
+    padding: 4.5% 13.5%;
+}
+
+.page4_flex{
+    display: inline-flex;
+}
+
+.text4{
+    background: rgba(255, 255, 255, 0.75);
+    font-size: 36px;
+    margin-right: 5%;
+    padding: 11% 12%;
+}
+
+.etc{
+    background: rgba(255, 255, 255, 0.5);
+    font-size: 48px;
+    text-align: center;
+    padding: 1%;
+    margin-top: 3%;
+}
+
+.page5{
+    background-color: #390C09;
+}
+
+.page5_flex{
+    display: flex;
+    justify-content: space-around;
+    padding: 4% 10.5%;
+}
+
+.things5{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+
+.text5{
+    background: #CDC2C1;
+    font-size: 36px;
+    text-align: center;
+    padding: 7% 3%;
+}
+
+.photo5{
+    margin-top: 15%;
+}
+
+.page6{
+    background-color: #390C09;
+}
+
+.page6_flex{
+    display: inline-flex;
+    padding: 4.5% 13.5%;
+}
+
+.photo8{
+    padding-left: 16%;
+}
+
+.page7{
+    background-color: #390C09;
+    padding-bottom: 4%;
+}
+
+.page7_flex{
+    display: inline-flex;
+    padding: 0 13.5%;
+    padding-top: 4%;
+}
+
+.things7-1{
+    display: flex;
+    flex-direction: column;
+}
+
+.text6{
+    background: #A07867;
+    font-size: 28px;
+    padding: 2%;
+}
+
+.photo9{
+    z-index: 1;
+    margin-top: 10%;
+}
+
+.circle{
+    width: 60px;
+    height: 60px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    z-index: 2;
+    margin-top: -83%;
+    margin-left: 40%;
+}
+
+.circle:hover{
+    background: #BC0000;
+}
+
+.things7-2{
+    display: flex;
+    flex-direction: column;
+    padding-left: 15%;
+}
+
+.kiss{
+    background: #CDC2C1;
+    font-size: 48px;
+    text-align: center;
+    padding: 4% 2%;
+    margin-top: 15.5%;
+}
+
+.signature{
+    background-color: #390C09;
+    text-align: right;
+    font-size: 32px;
+    color: white;
+    padding: 7px;
+}
